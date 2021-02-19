@@ -1,3 +1,4 @@
-https://github.com/l1ving/youtube-dl
-youtube-dl: pip install youtube-dl
-googleapiclient: pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+youtube-dl
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
